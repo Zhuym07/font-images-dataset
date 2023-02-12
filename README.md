@@ -11,7 +11,7 @@
 
 ### 生成工具
 
-```
+``` Python
 import os
 import pygame
 
